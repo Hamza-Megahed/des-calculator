@@ -10,9 +10,7 @@ DES Calculator :
 
 introduction :
 
-    DES Calculator is a program to encrypt and decrypt a plaintext over DES encryption algorithm , DES Calculator is 
-    mainly for educational purposes to calculate DES functions in each round in a binary form and then convert it to 
-    HEX form.
+    DES Calculator is a program to encrypt and decrypt a plaintext over DES encryption algorithm , DES Calculator is mainly for educational purposes to calculate DES functions in each round in a binary form and then convert it to HEX form.
 
 ------
 Note : 
